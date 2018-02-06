@@ -1,0 +1,24 @@
+{
+  "name": "pm2333",
+  "version": "0.0.1",
+  "description": "A mini, simple, PM2 liked tool\n一个仿PM2的简单工具，仅供学习参考，勿在生产环境使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyanxin/pm2333.git"
+  },
+  "keywords": [
+    "pm2",
+    "node.js",
+    "cluster"
+  ],
+  "author": "wuyanxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuyanxin/pm2333/issues"
+  },
+  "homepage": "https://github.com/wuyanxin/pm2333#readme"
+}
